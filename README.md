@@ -1,2 +1,2 @@
 # CV_GoIT
- Final project
+ A simple CV project, an HTML file, created after the workshop in IT-school
